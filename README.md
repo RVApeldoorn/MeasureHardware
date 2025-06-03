@@ -20,7 +20,7 @@ Sluit de VL53L1X sensor aan op de XIAO ESP32-C6 **zoals weergegeven in onderstaa
 
 | VL53L1X Pin | ESP32-C6 Pin |
 |-------------|--------------|
-| VIN         | 3.3V         |
+| VCC         | 3.3V         |
 | GND         | GND          |
 | SDA         | D4 (GPIO6)   |
 | SCL         | D5 (GPIO7)   |
