@@ -25,8 +25,6 @@ Sluit de VL53L1X sensor aan op de XIAO ESP32-C6 **zoals weergegeven in onderstaa
 | SDA         | D4 (GPIO6)   |
 | SCL         | D5 (GPIO7)   |
 
-> 📌 Let op: Sommige VL53L1X-modules hebben ingebouwde pull-up weerstanden. Zo niet, plaats dan 4.7kΩ pull-ups tussen SDA/SCL en 3.3V.
-
 ---
 
 ## 📦 Arduino Setup
