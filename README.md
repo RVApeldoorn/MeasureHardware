@@ -16,7 +16,7 @@ Dit project maakt gebruik van een VL53L1X Time-of-Flight sensor en een XIAO ESP3
 
 Sluit de VL53L1X sensor aan op de XIAO ESP32-C6 **zoals weergegeven in onderstaand elektrisch schema**:
 
-![Wiring Diagram](wiring_diagram.png)
+![Wiring Diagram](Schematic_Meetapparaat_2025-06-03.png)
 
 | VL53L1X Pin | ESP32-C6 Pin |
 |-------------|--------------|
