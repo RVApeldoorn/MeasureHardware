@@ -18,7 +18,7 @@ This project uses a VL53L1X Time-of-Flight (ToF) sensor and a XIAO ESP32-C6 micr
 
 Connect the VL53L1X sensor to the XIAO ESP32-C6 as shown in the schematic below:
 
-![Wiring Diagram](Schematic_Meetapparaat_2025-06-03.png)
+![Wiring Diagram](docs/ToF_MEasurement_Circuit_Diagram.png)
 
 | VL53L1X Pin | ESP32-C6 Pin  |
 |-------------|---------------|
